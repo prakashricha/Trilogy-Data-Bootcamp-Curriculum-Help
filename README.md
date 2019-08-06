@@ -1,4 +1,4 @@
-# Trilogy Data Boot Camp Curriculum Helpers:
+# Trilogy Data Boot Camp Curriculum Help:
 
 This repository holds a number of scripts/ notebooks/ data files/ etc. that I have created while working as a tutor for students enrolled in the Trilogy data boot camp. Below I have listed the directory structure for easy location of files. This repository is updated regularly, so run a git pull periodically to keep your edition up to date. Also worth mentioning, this repository is new as of August 2018, so there may not be demos for all of the materials that you're looking for.
 
